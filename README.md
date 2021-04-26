@@ -14,4 +14,5 @@ The columns in this dataset are:
 
 ## Results
 One third of dataset (50 samples) are used for testing purpose and model predicted with 98% test accuracy.
+#### Confusion Matrix
 ![Confusion Matrix](./images/cfm.png)
